@@ -1,0 +1,8 @@
+C:\Users\moskalenko_s\Desktop\My games\Game_of_life\Game_of_life\bin\Debug\Game_of_life.exe.config
+C:\Users\moskalenko_s\Desktop\My games\Game_of_life\Game_of_life\bin\Debug\Game_of_life.exe
+C:\Users\moskalenko_s\Desktop\My games\Game_of_life\Game_of_life\bin\Debug\Game_of_life.pdb
+C:\Users\moskalenko_s\Desktop\My games\Game_of_life\Game_of_life\obj\Debug\Game_of_life.csprojResolveAssemblyReference.cache
+C:\Users\moskalenko_s\Desktop\My games\Game_of_life\Game_of_life\obj\Debug\Game_of_life.exe
+C:\Users\moskalenko_s\Desktop\My games\Game_of_life\Game_of_life\obj\Debug\Game_of_life.pdb
+C:\Users\moskalenko_s\Desktop\My games\Game_of_life\Game_of_life\obj\Debug\Game_of_life.Form1.resources
+C:\Users\moskalenko_s\Desktop\My games\Game_of_life\Game_of_life\obj\Debug\Game_of_life.csproj.GenerateResource.Cache
